@@ -8,7 +8,7 @@ It was mainly done in Python and was a part of the project in the course Compute
 
 ## Deployment
 
-Run the MIPS-MARS code using the terminal and then compare the output drawn by the python code which ran using terminal
+Run the MIPS-MARS code using the terminal and then compare the output drawn by the python code which ran using terminal.
 
 
 
